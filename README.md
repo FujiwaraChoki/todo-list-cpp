@@ -37,7 +37,7 @@ You can add screenshots or GIFs of your application here if you want to showcase
 
 ## Author
 
-This project was created by [Sami Hindi)(https://samihindi.com).
+This project was created by [Sami Hindi](https://samihindi.com).
 
 
 ## License
