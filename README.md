@@ -31,10 +31,6 @@ This is a simple To-Do List application built using Qt framework and C++. The ap
 5. Use the "Save Tasks" and "Load Tasks" buttons to save and load tasks to/from a file.
 6. Cached tasks are automatically loaded from the cache file on startup.
 
-## Screenshots
-
-You can add screenshots or GIFs of your application here if you want to showcase its interface and features.
-
 ## Author
 
 This project was created by [Sami Hindi](https://samihindi.com).
