@@ -13,7 +13,7 @@ This is a simple To-Do List application built using Qt framework and C++. The ap
 
 ## Requirements
 
-- Qt framework (version X.X.X or later)
+- Qt framework
 - C++ compiler
 
 ## Installation
